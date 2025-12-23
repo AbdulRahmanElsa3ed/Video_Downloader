@@ -13,6 +13,10 @@ A simple and fast program to download videos from multiple websites and platform
 - Uses [yt_dlp](https://github.com/yt-dlp/yt-dlp), which allows downloading from multiple platforms and websites.  
 - Built with a user-friendly interface using **CustomTkinter**.
 
+## Instructions
+
+
+
 ## Requirements
 
 - Python 3.8 or higher  
@@ -20,6 +24,7 @@ A simple and fast program to download videos from multiple websites and platform
 ```bash
 pip install customtkinter pillow pyperclip yt-dlp
 ```
+
 
 
 
