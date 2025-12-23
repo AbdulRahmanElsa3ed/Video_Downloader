@@ -1,7 +1,5 @@
 # Video Downloader App
 
-A simple and fast program to download videos from multiple websites and platforms.
-
 ## Features
 
 - Download videos in different qualities (Low, SD, HD, FHD).  
@@ -43,6 +41,7 @@ This program relies on `ffmpeg.exe` to handle video and audio processing.
 ```bash
 pip install customtkinter pillow pyperclip yt-dlp
 ```
+
 
 
 
