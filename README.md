@@ -1,4 +1,4 @@
-# Video-Downloader-App
+# Video Downloader App
 
 A simple and fast program to download videos from multiple websites and platforms.
 
@@ -20,6 +20,7 @@ A simple and fast program to download videos from multiple websites and platform
 ```bash
 pip install customtkinter pillow pyperclip yt-dlp
 ```
+
 
 
 
